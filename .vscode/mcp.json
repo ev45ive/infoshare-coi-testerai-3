@@ -27,5 +27,13 @@
                 "sqlite:///home/teamsharq/infoshare-coi-testerai-3/shopeasy-demo/dev.db"
             ]
         },
+        "thunderclient": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "thunderclient-mcp"
+            ]
+        }
     }
 }
