@@ -24,7 +24,7 @@
                 "--port",
                 "8080",
                 "--dsn",
-                "sqlite://./shopeasy-demo/dev.db"
+                "sqlite:///home/teamsharq/infoshare-coi-testerai-3/shopeasy-demo/dev.db"
             ]
         },
     }
