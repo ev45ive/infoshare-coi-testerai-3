@@ -18,3 +18,12 @@
  
 
  - [Agent] - 
+
+
+ - [Kontekst] - 
+
+      - Widziałem zniszczony ____ w Malborku. 
+
+      - Nie mogę zapiąć spodni. Mam zniszczony _____. 
+
+      - Nie mogę wejśc do domu. Mamy zniszczony _____. 
