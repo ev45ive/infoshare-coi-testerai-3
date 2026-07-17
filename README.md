@@ -1,1 +1,0 @@
-# infoshare-coi-testerai-3
