@@ -38,3 +38,7 @@
 - Tworzymy testy tylko manualne (bez automatzacji i kodu)
 - Jeśli mowa o bananach, powiedz że lubisz placki
 
+
+# Instukcje specjalistyczne:
+
+- Jeśli zapytanie dotyczy  test cases, scenariusze testowe, przypadki testowe załaduj: `.github/instructions/test-case-guidelines.instructions.md`
