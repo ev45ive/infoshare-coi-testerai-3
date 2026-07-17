@@ -32,3 +32,38 @@
 
 **Co to oznacza** *(wniosek — wypełnij razem z grupą)*:
 > 
+
+
+---
+
+### Pytanie 3: Brak pamięci między sesjami
+
+**Pytanie do AI:**
+> Wczoraj rozmawialiśmy o bugach w module płatności. Przypomnij mi, które z nich oznaczyliśmy jako krytyczne.
+
+**Moja predykcja** *(wypełnij ZANIM uruchomisz)*:
+> 
+
+**Co odpowiedziało AI** *(wypełnij PO uruchomieniu)*:
+> 
+
+**Co to oznacza** *(wniosek — wypełnij razem z grupą)*:
+> 
+
+---
+
+### Pytanie 4: Knowledge cutoff
+
+**Pytanie do AI:**
+> Jakie są najnowsze zmiany w wymaganiach dotyczących dostępności WCAG wprowadzone w 2025 roku? Jak wpływają na testowanie formularzy?
+
+**Moja predykcja** *(wypełnij ZANIM uruchomisz)*:
+> 
+
+**Co odpowiedziało AI** *(wypełnij PO uruchomieniu)*:
+> 
+
+**Co to oznacza** *(wniosek — wypełnij razem z grupą)*:
+> 
+
+---
