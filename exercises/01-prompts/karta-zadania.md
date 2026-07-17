@@ -40,3 +40,23 @@ Problem - AI rozumie 'test' jako kod testu automatycznego.
 > Napisz test dla formularza zamówienia.
 
 "Test" oznacza teraz przypadek testowy
+
+Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślony format 
+
+---
+
+# Instrukcje: jak osiągnąć cel, co robić, czego nie robić 
+
+
+
+> Rola: Quality Assurance Engineer
+> - Manual testing (not automation)
+> - Przypadki testowe, scenariusze, wymagania itd.
+>
+> Cel:
+> Napisz test dla formularza zamówienia.
+>
+> Instrukcje:
+> - ???
+>
+>
