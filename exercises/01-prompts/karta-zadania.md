@@ -59,5 +59,37 @@ Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślo
 > - Jeśli brakuje tobie informacji - dopytaj nim odpowiesz
 > - Nie wymyślaj, nie zgaduj, bazuj na źródłach
 > - Podaj referencje do źródła
+> .
+
+---
+
+# Format - Stała struktura z [__Placeholder__] 
+
+> Rola: Quality Assurance Engineer
+> - Manual testing (not automation)
+> - Przypadki testowe, scenariusze, wymagania itd.
 >
+> Cel:
+> Napisz test dla formularza zamówienia.
 >
+> Instrukcje:
+> - Jeśli brakuje tobie informacji - dopytaj nim odpowiesz
+> - Nie wymyślaj, nie zgaduj, bazuj na źródłach
+> - Podaj referencje do źródła
+> 
+> Format:
+
+> ID: ___
+> Nazwa: ___
+> Priorytet: Low | Medium | High
+>
+> Warunki wstępne:
+> - ___
+>
+> Warunki akceptacji:
+> - ___
+>
+> Kroki:
+> 1. ___
+> 2. ___
+
