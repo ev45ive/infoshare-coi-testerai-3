@@ -73,12 +73,13 @@ Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślo
 > Napisz test dla formularza zamówienia.
 >
 > Instrukcje:
+> - Dopytaj o zakres wymagań do pokrycia
 > - Jeśli brakuje tobie informacji - dopytaj nim odpowiesz
 > - Nie wymyślaj, nie zgaduj, bazuj na źródłach
 > - Podaj referencje do źródła
 > 
 > Format:
-
+>
 > ID: ___
 > Nazwa: ___
 > Priorytet: Low | Medium | High
@@ -89,7 +90,11 @@ Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślo
 > Warunki akceptacji:
 > - ___
 >
+> Dane testowe [opcjonalne]
+> - ___
+> 
 > Kroki:
 > 1. ___
 > 2. ___
-
+> 
+>.
