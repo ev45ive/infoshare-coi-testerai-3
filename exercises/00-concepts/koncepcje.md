@@ -15,9 +15,19 @@
     - Sesja z kontekstem rozmowy
     - Dostarcza kontekst do zapytania 
     - Wiedzą kontekstową (dostarcza z zapytaniem)
+
+    - Preambuła:
+    > Zasymuluj rozmowę między użytkownikiem a pomocnym asystentem.
+    >
+    > Użytownik (Ja): [pytanie lub zadanie]
+    > Asystant (Ty): [odpowiedź]
+    > 
  
 
  - [Agent] - 
+   > Zaplanuj zadania i wykonaj je używając narzedzi
+   > Narzędzia: 
+   > - read_file - ...
 
 
  - [Kontekst] - 

@@ -48,7 +48,6 @@ Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślo
 # Instrukcje: jak osiągnąć cel, co robić, czego nie robić 
 
 
-
 > Rola: Quality Assurance Engineer
 > - Manual testing (not automation)
 > - Przypadki testowe, scenariusze, wymagania itd.
@@ -57,6 +56,8 @@ Problem - Podejmuje sam decyzje, sam wybiera co ważne, zwraca "jakiś" wymyślo
 > Napisz test dla formularza zamówienia.
 >
 > Instrukcje:
-> - ???
+> - Jeśli brakuje tobie informacji - dopytaj nim odpowiesz
+> - Nie wymyślaj, nie zgaduj, bazuj na źródłach
+> - Podaj referencje do źródła
 >
 >
